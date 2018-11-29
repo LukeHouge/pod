@@ -1,6 +1,5 @@
-# Badgerloop Pod IV
-*Developers: Ezra Boley, Rohan Daruwala*
+# Pod 4 Dashboard
+*Author: Eric Udlis, Luke Houge, Alex Vesel*
 
-The master repository for Badgerloop's pod in the Hyperloop Competition
-
-
+## npm install
+## npm start
